@@ -1,0 +1,25 @@
+body{
+  text-align: center;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+#countdown{
+  margin-top: 200px;
+
+}
+#countdown > div{
+  display: inline-block;
+}
+.box{
+  padding: 20px 0;
+  width: 90px;
+  margin: 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.time-caption{
+  color:grey;
+}
+.time-number{
+  font-size: 26px;
+}

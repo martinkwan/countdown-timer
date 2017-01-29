@@ -6,10 +6,10 @@ body{
   margin-top: 200px;
 
 }
-#countdown > div{
+#countdown > div {
   display: inline-block;
 }
-.box{
+.box {
   padding: 20px 0;
   width: 90px;
   margin: 5px;
@@ -22,4 +22,5 @@ body{
 }
 .time-number{
   font-size: 26px;
+  font-family:serif;
 }
